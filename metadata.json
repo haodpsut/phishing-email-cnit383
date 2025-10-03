@@ -1,0 +1,5 @@
+{
+  "name": "Phishing Email Simulator v2",
+  "description": "An interactive web application to train students to identify phishing emails using AI-powered feedback from Google's Gemini API.",
+  "requestFramePermissions": []
+}
